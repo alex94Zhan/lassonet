@@ -1,7 +1,7 @@
 # Feature Selection in Neural Networks
 Demo code for the LassoNet method proposed in "LassoNet: A Neural Network with Feature Sparsity".
-The full paper is available on arXiv: https://arxiv.org/abs/1907.12207
-Here is a talk presenting the method: [TODO]
+- The full paper is available on arXiv: https://arxiv.org/abs/1907.12207
+- Here is a talk presenting the method: [TODO]
 
 ## Intro
 
