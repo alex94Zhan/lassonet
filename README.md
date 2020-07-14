@@ -1,7 +1,7 @@
-# LassoNet
+# Feature Selection in Neural Networks
 Demo code for the LassoNet method proposed in "LassoNet: A Neural Network with Feature Sparsity".
 
-## Introduction
+## Intro
 
 Much work has been done recently to make neural networks more interpretable, and one
 obvious approach is to arrange for the network to use only a subset of the available features. In linear models, Lasso (or L1-regularized) regression assigns zero weights to the most irrelevant or redundant features, and is widely used in data science. However the Lasso only applies to linear models. Here we introduce LassoNet, a neural network framework with global feature selection. Unlike other approaches to feature selection for neural nets, our method uses a modified objective function with constraints, and so integrates feature selection with the parameter learning directly. As a result, it delivers an entire regularization path of solutions with a range of feature sparsity. LassoNet uses projected proximal gradient descent, and generalizes directly to deep networks.
