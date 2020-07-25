@@ -4,7 +4,7 @@ Demo code for the LassoNet method proposed in "LassoNet: A Neural Network with F
 - Here is a talk presenting the method: [TODO]
 
 <p align="center">
-  <img width="460" height="300" src="examples/fig1.png">
+  <img height="500" src="examples/fig1.png">
 </p>
 
 ## Intro
